@@ -18,6 +18,7 @@
 checkpoints can be download at: [BaiduNetdisk](https://pan.baidu.com/s/1yjiE94NTNNlrwy79qgIypQ) password: eqg0
 
 download them and put them into the folder ./ckpts/
+move the vit.pth and vgg_normalised.pth into ./models/
 
 Tr-AdaIN
 
